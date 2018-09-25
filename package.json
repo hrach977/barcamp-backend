@@ -1,0 +1,8 @@
+{
+  "name": "barcamp-backend",
+  "version": "0.0.1",
+  "dependencies": {
+    "elasticsearch": "^15.1.1",
+    "express": "^4.16.3"
+  }
+}
